@@ -1,4 +1,7 @@
 # COVIDMap
+
+[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
+
 Download and Manipulate COVID-19 Building using Hong Kong Open Data
 
 1. Use Azure function Time Trigger to perform ETL
